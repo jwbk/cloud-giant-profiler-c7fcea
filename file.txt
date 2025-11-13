@@ -1,0 +1,6 @@
+
+## Support
+
+If you encounter any issues or have questions about the Mixing App, please contact [your-email@example.com](mailto:your-email@example.com).
+
+Happy mixing!
